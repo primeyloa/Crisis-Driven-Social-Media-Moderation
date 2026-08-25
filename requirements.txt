@@ -1,0 +1,13 @@
+numpy
+matplotlib
+pandas
+seaborn
+scikit-learn
+scipy
+tqdm
+datasets
+transformers
+torch
+twarc
+ipykernel
+# optional for Day04/06: pip install bertopic sentence-transformers umap-learn hdbscan wordcloud

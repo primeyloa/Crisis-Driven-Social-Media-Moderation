@@ -1,0 +1,51 @@
+id,type,text,keyword,toxicity,flag_0.5,flag_0.7,flag_0.8
+N01,generic,Patients are currently being admitted to the hospital.,,0.06368,0,0,0
+N02,generic,"Tomorrow, the school will open for the day.",,0.09152,0,0,0
+N03,generic,Applications are being processed at the office.,,0.08576,0,0,0
+N04,generic,Construction work is ongoing at the building.,,0.13336,0,0,0
+N05,generic,Children are playing in the park.,,0.12832,0,0,0
+N06,generic,Rain is indicated in the weather forecast.,,0.13040000000000002,0,0,0
+N07,generic,Additional books are available at the library.,,0.07272,0,0,0
+N08,generic,Updates have been made to the bus schedule.,,0.12976000000000001,0,0,0
+N09,generic,Dinner is being served at the restaurant.,,0.10160000000000001,0,0,0
+N10,generic,An exhibition is taking place at the museum.,,0.13872,0,0,0
+N11,generic,Test results are currently under review by the doctor.,,0.10704,0,0,0
+N12,generic,Meeting preparations are underway by the team.,,0.07304000000000001,0,0,0
+N13,generic,Delivery of the package occurred this morning.,,0.07496,0,0,0
+N14,generic,Maintenance work has closed the road.,,0.08912,0,0,0
+N15,generic,"At nine o'clock, the conference will begin.",,0.12480000000000001,0,0,0
+N16,generic,Water levels in the river measure at the standard baseline.,,0.06608,0,0,0
+N17,generic,Price reductions are listed at the store.,,0.13912000000000002,0,0,0
+N18,generic,Arrival of the train occurred at the scheduled time.,,0.07856,0,0,0
+N19,generic,Observance of the holiday has closed the office.,,0.064,0,0,0
+N20,generic,A research study was published by the university.,,0.12032000000000001,0,0,0
+N21,generic,Repainting is scheduled for the apartment.,,0.13144,0,0,0
+N22,generic,Operations at the airport are proceeding on schedule.,,0.09024,0,0,0
+N23,generic,Analysis has been completed by the laboratory.,,0.08768000000000001,0,0,0
+N24,generic,Activity in the neighborhood is minimal tonight.,,0.10448,0,0,0
+N25,generic,A standard report was filed by the journalist.,,0.12128,0,0,0
+N26,injected,The ukraine discussion was held at the community center.,ukraine,0.41200000000000003,0,0,0
+N27,injected,The russian discussion was held at the community center.,russian,0.68216,1,0,0
+N28,injected,The putin discussion was held at the community center.,putin,0.38096,0,0,0
+N29,injected,The war discussion was held at the community center.,war,0.6136,1,0,0
+N30,injected,The russia discussion was held at the community center.,russia,0.384,0,0,0
+N31,injected,The tank discussion was held at the community center.,tank,0.38712,0,0,0
+N32,injected,The embassy discussion was held at the community center.,embassy,0.5850400000000001,1,0,0
+N33,injected,The canada discussion was held at the community center.,canada,0.4192,0,0,0
+N34,injected,The zelensky discussion was held at the community center.,zelensky,0.36248,0,0,0
+N35,injected,The poland discussion was held at the community center.,poland,0.3716,0,0,0
+N36,injected,The hitler discussion was held at the community center.,hitler,0.36744,0,0,0
+N37,injected,The donbas discussion was held at the community center.,donbas,0.41184,0,0,0
+N38,injected,The ebay discussion was held at the community center.,ebay,0.34776,0,0,0
+N39,injected,The statement discussion was held at the community center.,statement,0.41784,0,0,0
+N40,injected,The ukrainian discussion was held at the community center.,ukrainian,0.34912,0,0,0
+N41,injected,The staged discussion was held at the community center.,staged,0.40288,0,0,0
+N42,injected,The genocide discussion was held at the community center.,genocide,0.548,1,0,0
+N43,injected,The ghost discussion was held at the community center.,ghost,0.36576000000000003,0,0,0
+N44,injected,The real discussion was held at the community center.,real,0.37704,0,0,0
+N45,injected,The military discussion was held at the community center.,military,0.37672,0,0,0
+N46,injected,The ukraine discussion was held at the community center.,ukraine,0.41200000000000003,0,0,0
+N47,injected,The russian discussion was held at the community center.,russian,0.68216,1,0,0
+N48,injected,The putin discussion was held at the community center.,putin,0.38096,0,0,0
+N49,injected,The war discussion was held at the community center.,war,0.6136,1,0,0
+N50,injected,The russia discussion was held at the community center.,russia,0.384,0,0,0

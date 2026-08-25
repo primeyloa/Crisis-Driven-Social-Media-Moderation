@@ -1,0 +1,31 @@
+feature,weight,direction
+sun,1.218700401299507,pro-misinfo
+block,1.1454029242189623,pro-misinfo
+block sun,1.0178321521371663,pro-misinfo
+election,0.9353813522977236,pro-misinfo
+clinton,0.8573531756710668,pro-misinfo
+zuckerberg,0.8427600678852791,pro-misinfo
+wants,0.7017323568274272,pro-misinfo
+start,0.6459531843838017,pro-misinfo
+bribery,0.6384864912179404,pro-misinfo
+just,0.6354982679519661,pro-misinfo
+campaign,0.620217259384844,pro-misinfo
+oil,0.5520375945316132,pro-misinfo
+blm,0.5469306154120362,pro-misinfo
+gates,0.5219615589824975,pro-misinfo
+election bribery,0.493210143824043,pro-misinfo
+fact,-1.9890672334663695,pro-true
+satire,-1.2336379226986893,pro-true
+check,-1.2074054158444825,pro-true
+fact check,-1.1893137865429249,pro-true
+microsoft,-0.9779039173558751,pro-true
+biden selling,-0.815460901675281,pro-true
+claim,-0.7579917343848255,pro-true
+selling,-0.756697679091728,pro-true
+selling alaska,-0.756697679091728,pro-true
+alaska,-0.7153656838349596,pro-true
+usa,-0.7012918243844222,pro-true
+usa today,-0.7012918243844222,pro-true
+factcheckers,-0.6981093511317389,pro-true
+obama birth,-0.6807674717064284,pro-true
+antidepressants,-0.6687147050715191,pro-true

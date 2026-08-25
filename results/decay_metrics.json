@@ -1,0 +1,11 @@
+{
+  "n_baseline": 471,
+  "n_crisis": 533,
+  "LR_baseline_F1": 0.9090909090909091,
+  "LR_crisis_F1": 0.7170795306388527,
+  "LR_decay_F1": 0.1920113784520564,
+  "RF_baseline_F1": 0.9115646258503401,
+  "RF_crisis_F1": 0.336322869955157,
+  "mitigated_F1": 0.6916221033868093,
+  "label_mapping": "False=1 (misinfo), True=0, Other=dropped"
+}
