@@ -20,10 +20,10 @@ Motivation per docs/project_proposal.md:15 — static models degrade during cris
 ## 3. Results
 Flagging Rate @0.7:
            split  threshold    n    FR  mean_tox
- neutral_generic        0.7   25 0.000  0.101920
-neutral_injected        0.7   25 0.000  0.441411
-          crisis        0.7 1000 0.746  0.828985
-        baseline        0.7 1000 0.055  0.243436
+ neutral_generic        0.7   25 0.000  0.122176
+neutral_injected        0.7   25 0.000  0.430227
+          crisis        0.7 1000 0.746  0.830366
+        baseline        0.7 1000 0.054  0.243796
 
 Decay:
 {
@@ -59,4 +59,3 @@ Shifts imply over-flagging of legitimate crisis discourse; time-stratified mixin
 ## 5. References
 See docs/project_proposal.md:47 + Toraman et al. 2024 MiDe22.
 
-Generated 2026-08-25 14:10:57.388626
