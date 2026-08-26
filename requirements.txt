@@ -13,7 +13,7 @@ wordcloud
 # Some optional ones - depends on your setup
 twarc # do not use if hydration isn't needed
 ipykernel # do not import if you've already setup your jupyter environment 
-# optional for Day04/06: pip install bertopic sentence-transformers umap-learn hdbscan wordcloud
+# optional for auditing and performance decay trend analysis: pip install bertopic sentence-transformers umap-learn hdbscan wordcloud
 
 #optional
 bertopic
